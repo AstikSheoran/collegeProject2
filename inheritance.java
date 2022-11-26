@@ -17,7 +17,7 @@ class two extends one {
 	public void print_Sheoran() { System.out.println("Sheoran"); }
 }
 // Driver class
-public class Main {
+public class inheritance {
 	public static void main(String[] args)
 	{
 		two g = new two();
@@ -54,7 +54,7 @@ class three extends two {
 }
 
 // Drived class
-public class Main {
+public class inhertance {
 	public static void main(String[] args)
 	{
 		three g = new three();
@@ -85,7 +85,7 @@ class D extends A {
 }
 
 // Driver Class
-public class Test {
+public class inheritance {
 	public static void main(String[] args)
 	{
 		B obj_B = new B();
@@ -130,7 +130,7 @@ class child implements three {
 }
 
 // Drived class
-public class Main {
+public class inheritance {
 	public static void main(String[] args)
 	{
 		child c = new child();
