@@ -16,7 +16,7 @@ class Pig extends Animal {
   }
 }
 
-class Main {
+class abstraction {
   public static void main(String[] args) {
     Pig myPig = new Pig(); // Create a Pig object
     myPig.animalSound();
